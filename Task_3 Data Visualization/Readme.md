@@ -54,15 +54,6 @@ The following visualizations were created:
 6. **Price vs Rating**
    - Helps examine the relationship between book prices and ratings.
 
-## 🔍 Key Insights
-
-- Book prices are distributed across different price ranges.
-- All five rating categories are represented in the dataset.
-- The average price varies across different rating categories.
-- Most books fall within the middle price ranges.
-- A small number of books have relatively higher prices.
-- The Price vs Rating visualization helps identify whether book ratings have a noticeable relationship with their prices.
-
 ## 📂 Project Structure
 
 ```text
